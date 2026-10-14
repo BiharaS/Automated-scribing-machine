@@ -1,7 +1,7 @@
 # Automated-scribing-machine
 An automated linear-guide and pneumatic-clamping machine designed to precisely scribe load cells for strain gauge bonding
 
-# Automated Scribing Machine Prototype Development (Industrial Internship Project)
+# Automated Scribing Machine Development (Industrial Internship Project)
 
 An automated high-precision scribing solution developed during my industrial engineering internship at **Flintec Transducers (Pvt) Ltd**, designed to replace manual digital-vernier marking for load cell strain gauge placement.
 
@@ -49,10 +49,10 @@ The firmware handles real-time execution via an optimized state machine (`IDLE`,
 ## PCB Design & Status
 
 * **Schematic & Layout:** Designed using Eagle CAD, featuring an Arduino Nano socket, TSR-2-2450 voltage regulator, and GND polygon copper pour planes.
-* **Status:** Fully prototyped and functionally validated on breadboard/perfboard. However, physical mass production printing of the PCB was deferred because management opted to expand the project scope to encompass an integrated horizontal scribing mechanism alongside the vertical axis.
+* **Status:** Fully prototyped and functionally validated on breadboard/perfboard. However, physical PCB fabrication was ultimately deferred due to scope expansion—incorporating an integrated horizontal scribing mechanism alongside the vertical axis—as well as prototype-stage controller reliability constraints that necessitated further design iteration.
 
 ---
 
 ## Media & Prototype Showcase
 
-* Check out the working prototype in action: [`/media/working_prototype.mp4`](./media/working_prototype.mp4)
+* Check out the working prototype videos and photos: [`/media/working_prototype.mp4`](./media/working_prototype.mp4)
