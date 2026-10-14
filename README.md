@@ -55,4 +55,4 @@ The firmware handles real-time execution via an optimized state machine (`IDLE`,
 
 ## Media & Prototype Showcase
 
-* Check out the working prototype videos and photos: [`/media/working_prototype.mp4`](./media/working_prototype.mp4)
+* Check out the working prototype videos and photos: [`/media/working_prototype.mp4`](./media)
